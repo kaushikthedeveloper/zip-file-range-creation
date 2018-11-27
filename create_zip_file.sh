@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 if (($#!=4))
 then
 	echo "Error : provide the file start - end range and the size count (count x size)"
